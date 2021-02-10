@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Chirag Prajapati
 
-### Android Developer
+### I'm an Android Developer
 
 <!--
 **chichi289/chichi289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
