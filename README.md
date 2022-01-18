@@ -2,10 +2,13 @@
 
 ## I'm a Developer!!
 
+- 👨🏻‍💻 I develop pixel-perfect Android Apps
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
+- 💬 Ask me about Android, Backend, APIs
 - ⚡ Fun fact: I love to draw and play guitar / drums
+- 📫 How to reach me - chiragrprajapati@gmail.com
 
 
 ### Connect with me:
