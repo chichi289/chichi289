@@ -1,6 +1,6 @@
 ### Hi there, I'm Chirag Prajapati - aka [chichi289][website] 👋 
 
-## I'm a Developer!!
+## I'm an Android Developer!!
 
 - 👨🏻‍💻 I develop pixel-perfect Android Apps
 - 🌱 I’m currently learning everything 🤣
