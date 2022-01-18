@@ -1,4 +1,4 @@
-<h1 align="center">### Hi 👋, I'm Chirag Prajapati - aka [chichi289][website]</h1>
+<h1 align="center">Hi 👋, I'm Chirag Prajapati</h1>
 <h3 align="center">A passionate Mobile App Developer</h3>
 
 <!-- ### Hi there, I'm Chirag Prajapati - aka [chichi289][website] 👋 
@@ -17,10 +17,11 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-<!-- ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=FFA518)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518)&nbsp; -->
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+<!-- ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=FFA518)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518)&nbsp; -->
 
 
 ### 🛠 &nbsp;Languages and Tools
