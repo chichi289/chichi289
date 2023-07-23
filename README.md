@@ -7,11 +7,10 @@
 
 - 👨🏻‍💻 I develop pixel-perfect Android Apps
 - 🌱 I’m currently learning **Jetpack Compose**
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Android
 - 📫 How to reach me - chiragrprajapati28@gmail.com
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
-<!-- - 👯 I’m looking to collaborate with other content creators -->
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
