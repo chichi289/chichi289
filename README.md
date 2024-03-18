@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻 I develop pixel-perfect Android Apps
 - 🌱 I’m currently learning **Jetpack Compose**
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Android
 - 📫 How to reach me - chiragrprajapati28@gmail.com
 
