@@ -42,5 +42,5 @@
 
 [website]: https://chichi289.github.io/
 [twitter]: https://twitter.com/chichi28_17
-[linkedin]: https://linkedin.com/in/chichi289/
+[linkedin]: https://linkedin.com/in/chiragrprajapati28/
 [instagram]: https://instagram.com/chiragrprajapati28
